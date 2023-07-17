@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
+    BOT_TOKEN = "6237721455:AAH2-MBST67-dNKX5JnsshFc1PmjR3_yctw"
+    APP_ID = "14757616"
+    API_HASH = "ac6571c04dbef6c26d9f7cae0919aad9"
+    DATABASE_URL = "postgres://sbqhkmqo:E9y1huHwnffpDLTMUnwjMbXlYHK97JEM@stampy.db.elephantsql.com/sbqhkmqo"
     SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "27078381261-5g502v6oo3i4pmafjsa884krdbrka33b.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
